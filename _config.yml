@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Means Blog # the main title
+title: Slaker0510 # the main title
 
 tagline: Open Information # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  정보 공유를 위한 블로그
+  to share my knowledge
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
