@@ -1,5 +1,5 @@
 ---
-title: " [ the Reason why I started Blog ] "
+title: " [ the reason why I started blog ] "
 author: slaker0510
 date: 2023-11-01 15:00:00 +0900
 categories: [life, blog]
