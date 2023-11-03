@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slaker0510.github.io/sitemap.xml
