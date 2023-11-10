@@ -1,5 +1,5 @@
 ---
-title:  " [ Initial intention ] "
+title: " [ Initial intention ] "
 author: slaker0510
 date: 2023-11-10 10:00:00 +0900
 categories: [life, piece of truth]
